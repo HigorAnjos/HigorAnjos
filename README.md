@@ -1,8 +1,8 @@
 ## Hello Word, Higor Anjos 👾
 <br>
-<li>🔭 Estou Cursando Eng. Computação na PUC-GO e Desenvolvimento Web</li>
+<li>🔭 Estou Cursando Eng. Computação na <a href="https://www.pucgoias.edu.br/">PUC-GO</a> e Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
 <li>🌱 Estou aprendendo Redes, Arquitetura, S.O, Paradigmas, Metaheurísticas, HTML, CSS, JS e Soft Skills
-<li>🤔 Meus hobbies são jogos, animes e séries<br>
+<li>🤔 Meus Hobbies São Jogos, Animes e Séries<br>
 <hr>
 
 <!--
@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ## My statistics 🚀 
 <br>
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/HigorAnjos">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HigorAnjos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HigorAnjos&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
