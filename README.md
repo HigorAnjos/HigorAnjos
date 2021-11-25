@@ -4,7 +4,6 @@
 <li>🌱 Estou aprendendo Redes, Arquitetura, S.O, Paradigmas, Metaheurísticas, HTML, CSS, JS e Soft Skills
 <li>🤔 Meus hobbies são jogos, animes e séries<br>
 <hr>
-<br>
 
 <!--
 **HigorAnjos/HigorAnjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ## My statistics 🚀 
 <br>
 <p align="center">
