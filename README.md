@@ -1,4 +1,4 @@
-## Hello Word, Higor Anjos 👾
+## Hello World!, Higor Anjos 👾
 <br>
 <li>🔭 Estou Cursando Eng. Computação na <a href="https://www.pucgoias.edu.br/">PUC-GO</a> e Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
 <li>🌱 Estou aprendendo Redes, Arquitetura, S.O, Paradigmas, Metaheurísticas, HTML, CSS, JS e Soft Skills
