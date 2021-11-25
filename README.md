@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hello Word, Higor Anjos 👾
+<br>
+<li>🔭 Estou Cursando Eng. Computação na PUC-GO e Desenvolvimento Web</li>
+<li>🌱 Estou aprendendo Redes, Arquitetura, S.O, Paradigmas, Metaheurísticas, HTML, CSS, JS e Soft Skills
+<li>🤔 Meus hobbies são jogos, animes e séries<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&center=true&vCenter=true&lines=Engenharia+da+Computacao;Desenvolvimento+web;Love+coffee+%3C3)](https://git.io/typing-svg)
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!--
@@ -19,7 +22,8 @@ Here are some ideas to get you started:
 -->
 
 
-## By the way here are some of my statistics 🚀
+## My statistics 🚀 
+<br>
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -27,5 +31,3 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-
----
