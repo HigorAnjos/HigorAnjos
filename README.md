@@ -3,8 +3,8 @@
 <li>🔭 Estou Cursando Eng. Computação na <a href="https://www.pucgoias.edu.br/">PUC-GO</a> e Desenvolvimento Web na <a href="https://betrybe.com">TRYBE</a></li>
 <li>🌱 Estou aprendendo Redes, Arquitetura, S.O, Paradigmas, Metaheurísticas, HTML, CSS, JS e Soft Skills
 <li>🤔 Meus Hobbies São Jogos, Animes e Séries<br>
+<hr>
 
-<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!--
 **HigorAnjos/HigorAnjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 ## Socials
 
 <p align="left"> <a href="https://www.codesandbox.com/HigorAnjos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.dev.to/higoranjos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@Anjos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/higoranjos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/HigorAnj0s" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-<hr>
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## My statistics 🚀 
 <br>
@@ -89,4 +89,4 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HigorAnjos&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-<!-- <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
+
